@@ -1,0 +1,13 @@
+<!-- fill in: 1) AUTHORSLUG, 2) link to the profile picture in NB, 3) Twitter account. You might want to actually save one of these for each writer. -->
+<div id="authors-secondary">
+<div class="media author-meta">
+		<div class="media-left">
+			<a href="/AUTHORSLUG"><img class="author-meta-pic" src="https://d3n8a8pro7vhmx.cloudfront.net/parklandinstitute/profile_images/5562d3095524be19c1b4e5651e451dab8df60e17.jpg?1445632025" alt="Barret Weber"></a>
+	  </div>
+	  <div class="media-body">
+	  <h4 class="media-heading"><a href="/AUTHORSLUG" class="linked-signup-name">Barret Weber</a></h4>
+	  	AUTHOR BIO
+	  <p><small><a href="/AUTHORSLUG">Read more by this author</a> | <i class="fa fa-twitter"></i>&nbsp;<a href="http://twitter.com/intent/user?screen_name=barretweber">Follow on Twitter</a></small></p>
+	</div>
+</div><!-- ends author-meta - repeat this block as necessary, inside the authors-secondary div -->
+</div><!-- ends authors-secondary -->
